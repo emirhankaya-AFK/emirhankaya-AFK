@@ -8,6 +8,7 @@ Electrical-Electronics Engineering student building reproducible Python systems 
 
 | Project | What it demonstrates | Evidence |
 | --- | --- | --- |
+| [Motor Bearing Fault Diagnosis](https://github.com/emirhankaya-AFK/motor-bearing-fault-diagnosis) | Leakage-aware vibration classification across unseen motor loads using FFT, wavelets and 1D CNN | Official CWRU data, source checksums, class metrics, CI |
 | [Elektrik Tüketim Planlayıcı](https://emirhankaya-afk.github.io/elektrik-tuketim-planlayici/) | Cihaz bazlı tüketim, kademeli maliyet ve kullanım senaryosu karşılaştırması | Privacy-first PWA, çevrimdışı kullanım, JSON/CSV, testler |
 | [Protection Relay Coordination Lab](https://github.com/emirhankaya-AFK/protection-relay-coordination-lab) | IEC inverse-time curves, pickup checks and radial-feeder grading margins | Worked cases, FastAPI dashboard, tests, Docker, CI |
 | [Power Quality Disturbance Analyzer](https://github.com/emirhankaya-AFK/power-quality-disturbance-analyzer) | Three-phase RMS, FFT/THD, symmetrical components and transparent rule-based event detection | FastAPI dashboard, tests, synthetic benchmark, Docker, CI |
@@ -32,6 +33,7 @@ The list below is ordered by repository creation date. Prototype and synthetic-d
 
 | Created | Repository | Focus |
 | --- | --- | --- |
+| 2026-09 | [motor-bearing-fault-diagnosis](https://github.com/emirhankaya-AFK/motor-bearing-fault-diagnosis) | Cross-load bearing fault classification with CWRU vibration data |
 | 2026-09 | [elektrik-tuketim-planlayici](https://github.com/emirhankaya-AFK/elektrik-tuketim-planlayici) | Privacy-first household electricity consumption and cost planner |
 | 2026-09 | [protection-relay-coordination-lab](https://github.com/emirhankaya-AFK/protection-relay-coordination-lab) | IEC inverse-time overcurrent relay coordination for radial feeders |
 | 2026-09 | [power-quality-disturbance-analyzer](https://github.com/emirhankaya-AFK/power-quality-disturbance-analyzer) | Synthetic three-phase power-quality DSP and event classification prototype |
