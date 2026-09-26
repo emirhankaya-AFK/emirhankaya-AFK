@@ -8,6 +8,7 @@ Electrical-Electronics Engineering student building reproducible Python systems 
 
 | Project | What it demonstrates | Evidence |
 | --- | --- | --- |
+| [Power Quality Disturbance Analyzer](https://github.com/emirhankaya-AFK/power-quality-disturbance-analyzer) | Three-phase RMS, FFT/THD, symmetrical components and transparent rule-based event detection | FastAPI dashboard, tests, synthetic benchmark, Docker, CI |
 | [Atlas Vector HNSW Engine](https://github.com/emirhankaya-AFK/atlas-vector-hnsw-engine) | Approximate nearest-neighbor search, HNSW internals, WAL persistence, reproducible benchmarking | Python, tests, benchmark lab |
 | [Industrial IoT Telemetry Platform](https://github.com/emirhankaya-AFK/industrial-iot-telemetry-platform) | Authenticated ingestion, Redis Streams consumer groups, anomaly detection, PEL recovery and backpressure | FastAPI, Redis, MQTT, Docker, CI |
 | [Quantitative Portfolio Risk Engine](https://github.com/emirhankaya-AFK/quantitative-portfolio-risk-engine) | Portfolio optimization, covariance shrinkage, Black-Litterman, GARCH and risk backtesting | Mathematical audit, tests, CI |
@@ -29,6 +30,7 @@ The list below is ordered by repository creation date. Prototype and synthetic-d
 
 | Created | Repository | Focus |
 | --- | --- | --- |
+| 2026-09 | [power-quality-disturbance-analyzer](https://github.com/emirhankaya-AFK/power-quality-disturbance-analyzer) | Synthetic three-phase power-quality DSP and event classification prototype |
 | 2026-09 | [atlas-vector-hnsw-engine](https://github.com/emirhankaya-AFK/atlas-vector-hnsw-engine) | HNSW approximate nearest-neighbor engine and benchmark lab |
 | 2026-09 | [industrial-iot-telemetry-platform](https://github.com/emirhankaya-AFK/industrial-iot-telemetry-platform) | Industrial telemetry streaming and anomaly detection |
 | 2026-09 | [pcb-defect-detection-platform](https://github.com/emirhankaya-AFK/pcb-defect-detection-platform) | Synthetic, rule-based PCB AOI prototype |
