@@ -8,6 +8,7 @@ Electrical-Electronics Engineering student building reproducible Python systems 
 
 | Project | What it demonstrates | Evidence |
 | --- | --- | --- |
+| [Protection Relay Coordination Lab](https://github.com/emirhankaya-AFK/protection-relay-coordination-lab) | IEC inverse-time curves, pickup checks and radial-feeder grading margins | Worked cases, FastAPI dashboard, tests, Docker, CI |
 | [Power Quality Disturbance Analyzer](https://github.com/emirhankaya-AFK/power-quality-disturbance-analyzer) | Three-phase RMS, FFT/THD, symmetrical components and transparent rule-based event detection | FastAPI dashboard, tests, synthetic benchmark, Docker, CI |
 | [Atlas Vector HNSW Engine](https://github.com/emirhankaya-AFK/atlas-vector-hnsw-engine) | Approximate nearest-neighbor search, HNSW internals, WAL persistence, reproducible benchmarking | Python, tests, benchmark lab |
 | [Industrial IoT Telemetry Platform](https://github.com/emirhankaya-AFK/industrial-iot-telemetry-platform) | Authenticated ingestion, Redis Streams consumer groups, anomaly detection, PEL recovery and backpressure | FastAPI, Redis, MQTT, Docker, CI |
@@ -30,6 +31,7 @@ The list below is ordered by repository creation date. Prototype and synthetic-d
 
 | Created | Repository | Focus |
 | --- | --- | --- |
+| 2026-09 | [protection-relay-coordination-lab](https://github.com/emirhankaya-AFK/protection-relay-coordination-lab) | IEC inverse-time overcurrent relay coordination for radial feeders |
 | 2026-09 | [power-quality-disturbance-analyzer](https://github.com/emirhankaya-AFK/power-quality-disturbance-analyzer) | Synthetic three-phase power-quality DSP and event classification prototype |
 | 2026-09 | [atlas-vector-hnsw-engine](https://github.com/emirhankaya-AFK/atlas-vector-hnsw-engine) | HNSW approximate nearest-neighbor engine and benchmark lab |
 | 2026-09 | [industrial-iot-telemetry-platform](https://github.com/emirhankaya-AFK/industrial-iot-telemetry-platform) | Industrial telemetry streaming and anomaly detection |
