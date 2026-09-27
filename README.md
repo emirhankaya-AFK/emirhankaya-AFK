@@ -8,6 +8,7 @@ Electrical-Electronics Engineering student building reproducible Python systems 
 
 | Project | What it demonstrates | Evidence |
 | --- | --- | --- |
+| [Air Quality Sensor Calibration](https://github.com/emirhankaya-AFK/air-quality-sensor-calibration) | Drift-aware NO2 calibration from low-cost field sensors with temporal validation | Real UCI data, conformal intervals, PSI drift report, CI |
 | [Semiconductor Yield Prediction](https://github.com/emirhankaya-AFK/semiconductor-yield-prediction) | Rare manufacturing-failure detection with missing sensor data, class imbalance and temporal drift | UCI SECOM, chronological holdout, bootstrap intervals, CI |
 | [NASA Turbofan RUL Prediction](https://github.com/emirhankaya-AFK/nasa-turbofan-rul-prediction) | Engine-grouped remaining-life modelling with causal sensor features, uncertainty intervals and GRU sequences | Official NASA C-MAPSS data, baselines, model card, CI |
 | [Motor Bearing Fault Diagnosis](https://github.com/emirhankaya-AFK/motor-bearing-fault-diagnosis) | Leakage-aware vibration classification across unseen motor loads using FFT, wavelets and 1D CNN | Official CWRU data, source checksums, class metrics, CI |
@@ -35,6 +36,7 @@ The list below is ordered by repository creation date. Prototype and synthetic-d
 
 | Created | Repository | Focus |
 | --- | --- | --- |
+| 2026-09 | [air-quality-sensor-calibration](https://github.com/emirhankaya-AFK/air-quality-sensor-calibration) | Drift-aware NO2 sensor calibration on real field measurements |
 | 2026-09 | [semiconductor-yield-prediction](https://github.com/emirhankaya-AFK/semiconductor-yield-prediction) | Chronological rare-event prediction on UCI semiconductor process data |
 | 2026-09 | [nasa-turbofan-rul-prediction](https://github.com/emirhankaya-AFK/nasa-turbofan-rul-prediction) | Leakage-safe turbofan remaining useful life prediction on NASA C-MAPSS |
 | 2026-09 | [motor-bearing-fault-diagnosis](https://github.com/emirhankaya-AFK/motor-bearing-fault-diagnosis) | Cross-load bearing fault classification with CWRU vibration data |
